@@ -1,0 +1,22 @@
+{
+  "OrderID": 10482,
+  "Address": "Av. Corrientes 1234, C1043AAZ, Buenos Aires, Argentina",
+  "Status": "En tránsito",
+  "Articles": [
+    {
+      "Name": "Switch Cisco Catalyst 9200L",
+      "Quantity": 2,
+      "Dangerous": false
+    },
+    {
+      "Name": "Batería de respaldo UPS Litio 1500VA",
+      "Quantity": 1,
+      "Dangerous": true
+    },
+    {
+      "Name": "Transceptor óptico SFP+ 10G",
+      "Quantity": 4,
+      "Dangerous": false
+    }
+  ]
+}
